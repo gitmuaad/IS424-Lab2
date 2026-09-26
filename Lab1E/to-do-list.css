@@ -7,6 +7,7 @@
     box-shadow: 0 0 10px 2px #333333;
     margin: auto;
     font-family: Arial, sans-serif;
+    border-radius: 8px;
 }
 
 ol {
